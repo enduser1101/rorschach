@@ -1,0 +1,32 @@
+{
+	"boxes" : [ 		{
+			"box" : 			{
+				"maxclass" : "waveform~",
+				"prototypename" : "M4L.orange",
+				"id" : "obj-1",
+				"setmode" : 1,
+				"textcolor" : [  ],
+				"ticks" : 1,
+				"numinlets" : 5,
+				"bordercolor" : [ 0.301961, 0.337255, 0.403922, 1.0 ],
+				"waveformcolor" : [ 1.0, 0.403922, 0.0, 1.0 ],
+				"tickmarkcolor" : [ 0.301961, 0.337255, 0.403922, 0.501961 ],
+				"numoutlets" : 6,
+				"fontsize" : 9.0,
+				"vlabels" : 1,
+				"selectioncolor" : [ 0.666667, 0.698039, 0.717647, 0.25098 ],
+				"bgcolor" : [ 0.094118, 0.113725, 0.137255, 1.0 ],
+				"labelbgcolor" : [ 0.094118, 0.113725, 0.137255, 1.0 ],
+				"presentation_rect" : [ 343.0, 197.0, 0.0, 0.0 ],
+				"outlettype" : [ "float", "float", "float", "float", "list", "" ],
+				"snapto" : 2,
+				"labeltextcolor" : [ 0.666667, 0.698039, 0.717647, 1.0 ],
+				"outmode" : 0,
+				"buffername" : "none",
+				"patching_rect" : [ 344.0, 200.0, 160.0, 80.0 ]
+			}
+
+		}
+ ],
+	"preview_image" : [ 3965, "png", "IBkSG0fBZn....PCIgDQRA..A.D..D.PHX....PyPVpp....DLmPIQEBHf.B7g.YHB..OPSRDEDU3wY6cuEbTceXGG+2QqP2.IzcjjETvPhMVfcrTfDlIsiSa5TahsS5zY7D63F21IwzoMI8g9du7XxjL4ojNcl9TSZ58IoYlRlZmYrceHoiswdRrMDW.CxHPBjUP.BIsRfN4AAqtrBjVsmaq988yCd1Eu64+4Hc1u6ecz4rJ3IdpiDpXRXnjTnBBBhqgn3wKHTAJYFOD8XeFTpJm8YpNxWajTnBUfzsVgRtcrle6OPJLTgEFeTIf8YPoJJ1mopHcMR2pFGlr6DWjauSbXrM4VDgXeFTphp8Yh7.37SEM5WpkJdm7JIrOCJUQy9LE8i.+Z+reRYs.uu9FPM0TKk0xHpbsqcE8KemWOsWMvpf8YPoJp1mIxmA3l2biQ8hbcqgLz5BtyXeFTphp8Yh7eIHYoeLhEupzXSMpOwm32Tc0c2pyN6PggRiO9k0INwIzwd8ioIu90KokcTu7bVVceFjcEU6yD4AvomZxLy6hN8zSIIoG8wdL86769oTs0V6R9+2616U6a+6WO5i8X5u6a+czPm6bqokaTu7bWVbeFjsEU6yD4+Hvie4OHpWjqaiM5H5I+reFc3G+SWHVEFFpgGdXc0qb0BOtFarQ8U9K9pZ26Y2q5xLpWdH6sOCx9hp8YBV9IBc49KAopb4z9dnCoZqstxZ4TtxmeZUS0ynuvy8EJ7u8Ju7Kqe7+8Q0jSNojj5p6tzm+YeV8arycJIoYlYF8M9ZecMxHq7KBNvAOf9CetmKxVdXdYo8YN9a8p5FyNSptdfUWTsOSt6quO5eyh+GtvPuWYs.CCC00t5k0V2Zap5p2TYsrVulY175jG+Mze7exejZngFjjzK9+7B5G9C9AZ1YmsviahIlPG6Xut108dups1ZS4xkSAUEn24semhVlUUUU5K9k9RQ1xCKHqrOy691GSyNS9TY7QoIp1mIFNO.kl75WSu0O+mpguvYkl6lwwPrxi6jSnyM3oza8l+T029d.0V6sKIowGeb8iO5QWwmyL4mQ+Se2umt4Mme87.G3fpt5J9cU5ef9izkGVpEuOS9olL4F2EsOS97b7+pjDE6yDKWJbRRgyEpgF7T5Q+89s0C9POnjj9Iu3KpezO7+5t97d9+zin8s+8KIo+i+s+c8+9Jux5Z7+HOb+Et8q+ZultwMtwc7w9qFaLchiebsu8ueUac0pC9w9XEMtQ8xCE616yLzfmpjet8z6tVx8uvPmIpVsPFV4rOiTLMCvEam6ZmEt869Ke2U8wex++SV31Ob+8eWdjI63lVaG.H9DqAvVasU0TSMU39mengV0my4O+BOlt6o6Lw3lVaG.HdEqAvs0UWEtc9740DSLwp9bt7kGuvsangFTiMU5mqOQ83lVaG.HdEqAv5qu9B29JiO9c4Qtfqbkk93ZbKkd3HpG2zZ6..wqXM.VW8K7a+blYl8t7HWvrK6wUyxtZKRiwMs1N.P7JdCfK5z+X103IWZXXXgSgDIoZpozOGeh5wMs1N.P7JVCfaZSK7h9ady4VyOuEGNxkKWpOto01A.hWwZ.bl7KLaopqdseJGt3G6zSMcpOto01A.hWwZ.Le9Etrh1zZ7GALWtbpppVX0Z5oK8vQTOto01A.hWwZ.b57K7h95qq96xibAK923pjzTSU5WdRQ83lVaG.HdEqAvO3RiV31as4stl9PLrkVV3i454laNc80wGrnQ83lVaG.HdEqAvQt3HJ7V+U1JWtbp4ladUeNs0daK77GYjk7osRZMto01A.hWw9uDjOXzE9fKbW69dW0mytt2E9PD8rmY8cAsG0iaZsc.f3Ur+ggvu3W7yKb695aeq5i+A56AJb626zq+OaBi5wMs1N.P7I1Cfu4wdiB2t+A5WczYm2wGa+CLf1111ljjt10tldy23MtiO1jdbSqsC.Deh8.36+9uuN96bbIM+wO6K+U+JqX7XuOvd0y7re9B2+keoW5NdbydjO4mTetm9o0m6oeZ83O4SjHiabrc.fzUj+Qh+JYvydV8wOzgT0UWspu95U+Czu1bCaVRR2Su8peqG4Qzm42+yV3JtXvAGT+q+y+KZt4V4q5hC+3eZ8vCzu19N1gZtkVzq7RubhLtQ8xCQmFW1ejru1UWaenU.uE4+QQ5No6t6Vewm+4UGc1wc8wM5nipu023adW+Hm5O6K+mq6eu6URRiM1X5u8u5uNQF23X4gnAehPi0iDYFfRy+GLnW6UeU0VasqVas0htjxxmOudwW3Ez26e76tpmzvG3fGTs2w7AnolZp63L.i5wMNVdHZvL.w5QhMCvkLnAApiN6T6XGaWyEFpQuzn5hWbjkbM2VILto01AJFy.DqGw1eTjtaBCC0kt3E0kt3EqnG2zZ6..QiX+2BL.PVEAP.XKBf.vVD.AfsH.B.aQ.D.1pnyCP..WvL.AfsH.B.aQ.D.1pnKEtyetSWVKPtFLQZfqE3roCbnO0Rt+kGcvTZMYkwL.AfsJZFf7Nm.vELCP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1p5zdE.XwF9vmdI2u6it6TZMANfY.B.aQ.D.1h.H.rEGCPjpV9w7CHIwL.AfsH.B.aQ.D.1h.H.rEAP.Xqh9s.2Su6prVfWXnyTVOe.fjBy.D.1h.H.rEAP.XqhNFfbL7.fKXFf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rUQehPCjkL7gO8Rte2Gc2ozZB1HhY.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVEcs.y0dI.bAy.D.1h.H.rEAP.XK97.D.YV+me7Krj6+G7+0Sjt7YFf.vVD.AfsH.B.aww.DUT37T0aQ8wDjY.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVq50BLW6k.Hqpbu1fYFf.vVD.AfsH.B.awmGfnh1sOF0e+oZdI+6OyCd5U5gm3GCaNF5IqR8XBxL.AfsH.B.aQ.D.1pjOFfK+XZrbK+XbrQ+XfTpe8.oqU66Wqlxc+6390CI8q2x5u9d0NlfLCP.XKBf.vVD.AfsBdhm5HgK9e3G0xeeZst.rt88mZfkb+mo9ikRqIXwdxKejkb++gc+yRo0jUFy.D.1h.H.rEAP.Xqx9ZAtTOuex5m2PkqM5aeQsx87xKsk01+OtOuTK00+Cbnkd+R8yquked7E0XFf.vVD.AfsH.B.ak3ed.tQ+XhsQe6ailj96Ww83Uou7iZ74AH.vc.AP.XKBf.vVk7w.rR6X..u7MOYKRR5ubH1O0Ak54U3xwL.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsR7qEXfnzsOuT6o2VR40DTIhY.B.aQ.D.1h.H.r0pdL.4Z+E.YEk6096xwL.AfsH.B.aQ.D.1hyCPTQgiIMhRLCP.XKBf.vVD.Afs3X.BfLqn979a4XFf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVbd.hLMt1eQbhY.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aUz4AHm2U.vELCP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsJ5uJb8z6tJqE3EF5Lk0yG.HovL.AfsJZFf.Iok+2g5gO7oSo0D3HlAH.rUQy.jigG.bAy.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1hOO.Qlxx+7ADHNwL.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfsH.B.aQ.D.1h.H.rEAP.XKBf.vVD.AfspNNW3s1VWpsN6RM2b6w4vTvDSbUcoQNmFazgSjwaitfppRcz48n15nKsksr0Xe7BCC0UFeLcwgeec0q7qh8wyAUuoZTWcuC0bqcn5qeyw93cyaLqtx3ioye9ynom75w93Uthk.XPUUo812.ZyIvKZVrsrklzV1SepiN5Vm5justwryjni+FI0Ta8Zu8Mfpo15RrwLHHPM2R6p4VZWevktfN66cBEFFlXi+FMM1TK5Cc+OrxkK49A8xU8lTqs2kZossogF7TI13tdE4ekIHnJce6s+DO9sXMt0V0d9vOXpM9U5pol5z82W+IZ7a4ZuydzN14GN0F+JcM1TyZO22CknwuEKHHPaemeHEpr8afE4e0o012lZroli5EaIqwlZVczYOo8pQEottmcnZqs9zd0Pc101UCatwzd0nhTu6XOp5pi0iv0ZRPnxzIvHO.1dFJ5zVGYm0kJFAAps15NsWKJnsNxNqKUJpq9FzVZL8mDhjjBBTPF9vXD4AvMmgdGal8PoqtZqWUuoMk1qFEzPC78vRUCMzTZuJrDY272J7KAomd2UYs.CBBJqmeTJCspT4Hi8EsppJas9TIHHq80rL1pyhE4y.b5olLpWjqaSO8To8pPEmYldJM2MuYZuZTvzSmc1epRwTYsS+jL7T.Cdhm5HQ5pWXX1YRDYo0kJIgggYlYxmkVWpTDp4+MOjE9517uFLTY0oAFC+NxCUF9Xdh0f.oLw2Cm+b.La9Bmrr.EnLyW2xvwOoX47.LPJkO6el+c.CY1eqWE9dXJ9cwaE+36gqOAAo+ahEFFdqXb1U7bkfDDL+KeBuU6Og1KNrv+I4FyMpJ7FY25KpI0ONUgq7ifr9Kcx9lOBd6udpjIFEdq21LHHS7ifuZ90YlXK1y7W2JM.....IUjSD4pPfIH" ]
+}
